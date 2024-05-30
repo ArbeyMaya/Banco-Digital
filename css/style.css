@@ -20,8 +20,16 @@
     background-color: var(--light);
     color: var(--primary);
 }
-p {
-    margin-top: -1.9rem;
-    margin-left: 7.7rem;
+
+
+.span-morado{
     color: var(--primary);
+}
+
+.titulo{
+    font-size: 8rem;
+    color: var(--dark);
+    margin: 0;
+    padding: 0;
+    line-height: 1.2;
 }
