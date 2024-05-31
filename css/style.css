@@ -33,3 +33,13 @@
     padding: 0;
     line-height: 1.2;
 }
+
+.enunciado{
+    background-color: var(--primary);
+    color: var(--light);
+}
+
+.apple{
+    width: 100px;
+    height: 100px;
+}
